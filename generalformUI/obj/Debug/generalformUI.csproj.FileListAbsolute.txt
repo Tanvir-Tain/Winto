@@ -1,0 +1,80 @@
+C:\Users\USER\source\repos\generalformUI\generalformUI\bin\Debug\generalformUI.exe.config
+C:\Users\USER\source\repos\generalformUI\generalformUI\bin\Debug\generalformUI.exe
+C:\Users\USER\source\repos\generalformUI\generalformUI\bin\Debug\generalformUI.pdb
+C:\Users\USER\source\repos\generalformUI\generalformUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\source\repos\generalformUI\generalformUI\obj\Debug\generalformUI.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\generalformUI\generalformUI\obj\Debug\generalformUI.Form1.resources
+C:\Users\USER\source\repos\generalformUI\generalformUI\obj\Debug\generalformUI.Properties.Resources.resources
+C:\Users\USER\source\repos\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.CopyComplete
+C:\Users\USER\source\repos\generalformUI\generalformUI\obj\Debug\generalformUI.exe
+C:\Users\USER\source\repos\generalformUI\generalformUI\obj\Debug\generalformUI.pdb
+C:\Users\USER\source\repos\generalformUI\generalformUI\obj\Debug\generalformUI.MedicineForm.resources
+E:\my project list\new mess management system\generalformUI\generalformUI\bin\Debug\generalformUI.exe.config
+E:\my project list\new mess management system\generalformUI\generalformUI\bin\Debug\generalformUI.exe
+E:\my project list\new mess management system\generalformUI\generalformUI\bin\Debug\generalformUI.pdb
+E:\my project list\new mess management system\generalformUI\generalformUI\bin\Debug\FontAwesome.Sharp.dll
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.Form1.resources
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.MedicineForm.resources
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.Properties.Resources.resources
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.GenerateResource.cache
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.CopyComplete
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.exe
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.pdb
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.Member_registration_form.resources
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.Account_Section.resources
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.creatroomform.resources
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.DeposititeControl.resources
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.Market_Cost.resources
+E:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.csprojAssemblyReference.cache
+D:\my project list\new mess management system\generalformUI\generalformUI\bin\Debug\generalformUI.exe.config
+D:\my project list\new mess management system\generalformUI\generalformUI\bin\Debug\generalformUI.exe
+D:\my project list\new mess management system\generalformUI\generalformUI\bin\Debug\generalformUI.pdb
+D:\my project list\new mess management system\generalformUI\generalformUI\bin\Debug\FontAwesome.Sharp.dll
+D:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.Form1.resources
+D:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.Properties.Resources.resources
+D:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.GenerateResource.cache
+D:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.CoreCompileInputs.cache
+D:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.CopyComplete
+D:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.exe
+D:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.pdb
+D:\my project list\new mess management system\generalformUI\generalformUI\obj\Debug\generalformUI.csprojAssemblyReference.cache
+D:\my project list\idole project\generalformUI\generalformUI\bin\Debug\generalformUI.exe.config
+D:\my project list\idole project\generalformUI\generalformUI\bin\Debug\generalformUI.exe
+D:\my project list\idole project\generalformUI\generalformUI\bin\Debug\generalformUI.pdb
+D:\my project list\idole project\generalformUI\generalformUI\bin\Debug\FontAwesome.Sharp.dll
+D:\my project list\idole project\generalformUI\generalformUI\obj\Debug\generalformUI.csprojAssemblyReference.cache
+D:\my project list\idole project\generalformUI\generalformUI\obj\Debug\generalformUI.Form1.resources
+D:\my project list\idole project\generalformUI\generalformUI\obj\Debug\generalformUI.Properties.Resources.resources
+D:\my project list\idole project\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.GenerateResource.cache
+D:\my project list\idole project\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.CoreCompileInputs.cache
+D:\my project list\idole project\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.CopyComplete
+D:\my project list\idole project\generalformUI\generalformUI\obj\Debug\generalformUI.exe
+D:\my project list\idole project\generalformUI\generalformUI\obj\Debug\generalformUI.pdb
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\generalformUI.exe.config
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\generalformUI.exe
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\generalformUI.pdb
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\FontAwesome.Sharp.dll
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.Form1.resources
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.pdfreader.resources
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.Properties.Resources.resources
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.GenerateResource.cache
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.CoreCompileInputs.cache
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.CopyComplete
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.exe
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.pdb
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\Bunifu_UI_v1.52.dll
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.Speeking.resources
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\AIMLBot.dll
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\DarrenLee.SpeechSynthesis.dll
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\Interop.SpeechLib.dll
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.csproj.ResolveComReference.cache
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\iTextSharp.dll
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\Interop.AcroPDFLib.dll
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.csprojAssemblyReference.cache
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\Interop.AcroPDFLib.dll
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\my project list\Ai\generalformUI\generalformUI\bin\Debug\itextsharp.xml
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.chatting.resources
+D:\my project list\Ai\generalformUI\generalformUI\obj\Debug\generalformUI.voicecommand.resources
